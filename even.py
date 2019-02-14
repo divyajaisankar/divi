@@ -1,5 +1,8 @@
-c=int(input())
+c=input()
+if c.isnumeric
 if(c%2==0):
-	print("even")
+	print("Even")
 else:
-	print("odd")
+	print("Odd")
+else:
+	print("invalid")
